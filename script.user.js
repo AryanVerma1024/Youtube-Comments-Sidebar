@@ -9,8 +9,8 @@
 // @run-at       document-idle
 // @grant        GM_addStyle
 // @homepage     https://github.com/AryanVerma1024/Youtube-Comments-Sidebar
-// @downloadURL  https://raw.githubusercontent.com/AryanVerma1024/Youtube-Comments-Sidebar/main/script.user.js
-// @updateURL    https://raw.githubusercontent.com/AryanVerma1024/Youtube-Comments-Sidebar/main/script.user.js
+// @downloadURL  https://github.com/AryanVerma1024/Youtube-Comments-Sidebar/raw/master/script.user.js
+// @updateURL    https://github.com/AryanVerma1024/Youtube-Comments-Sidebar/raw/master/script.user.js
 // ==/UserScript==
 
 const isElementLoaded = async (selector) => {
